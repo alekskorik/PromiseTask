@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromiseTask", "PromiseTask\PromiseTask.csproj", "{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8819340B-08A1-42C9-A16C-C15B487B4A1F}
+	EndGlobalSection
+EndGlobal
