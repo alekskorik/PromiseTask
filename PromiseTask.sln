@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PromiseTask", "PromiseTask\PromiseTask.csproj", "{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PromiseTask", "PromiseTask\PromiseTask.csproj", "{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderTests", "OrderTests\OrderTests.csproj", "{5D64C040-A972-492B-A1B0-EBA17EF2729C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4CE933BE-DC2E-4CBB-98B8-629FAAB1BCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D64C040-A972-492B-A1B0-EBA17EF2729C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D64C040-A972-492B-A1B0-EBA17EF2729C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D64C040-A972-492B-A1B0-EBA17EF2729C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D64C040-A972-492B-A1B0-EBA17EF2729C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
